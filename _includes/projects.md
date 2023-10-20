@@ -63,7 +63,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://americanhealth.jhu.edu/open-case-studies" target="_blank">Score-based Graph Generative Model for Neutrino Events Classification and Reconstruction</a></div>
+    <div class="title"><a href="https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_131.pdf" target="_blank">Score-based Graph Generative Model for Neutrino Events Classification and Reconstruction</a></div>
     <div class="author"><strong>Yiming Sun</strong>*, Zixing Song*, Irwin King </div>
     <div class="periodical"><em>Machine Learning and the Physical Sciences Workshop at Workshop at NeurIPS 2021.</em></div>
     <div class="links">
