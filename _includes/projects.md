@@ -39,8 +39,8 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2310.08459">A Survey of Heterogeneous Transfer Learning</a></div>
-    <div class="author"><strong><strong>Yiming Sun</strong>*, Runxue Bao*, Yuhe Gao, Jindong Wang, Qiang Yang, Haifeng Chen, Zhi-Hong Mao, Xing Xie, Ye Ye</strong></div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Oct 2023.</em></div>
+    <div class="author"><strong>Yiming Sun</strong>*, Runxue Bao*, Yuhe Gao, Jindong Wang, Qiang Yang, Haifeng Chen, Zhi-Hong Mao, Xing Xie, Ye Ye</div>
+    <div class="periodical"><em>arXiv, Oct 2023.</em></div>
     <div class="links">
       <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
       <a href="https://arxiv.org/abs/2310.08459" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
