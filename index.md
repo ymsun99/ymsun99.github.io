@@ -8,8 +8,7 @@ I am currently pursuing my Ph.D. in Computer Engineering at the University of Pi
 
 ## News
 
-[03/24] One paper on Online Transfer Learning was accepted by IEEE ICHI 2024!
-
+[03/24] One paper on Online Transfer Learning was accepted by IEEE ICHI 2024! \
 [10/23] One survey paper on Heterogeneous Transfer Learning was on arXiv!
 
 {% include_relative _includes/projects.md %}
