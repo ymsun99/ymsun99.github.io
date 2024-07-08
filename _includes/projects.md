@@ -39,7 +39,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2402.01987.pdf">Online Transfer Learning for RSV Case Detection</a></div>
     <div class="author"><strong>Yiming Sun</strong>, Yuhe Gao, Runxue Bao, Gregory F Cooper, Jessi Espino, Harry Hochheiser, Marian G Michaels, John M Aronis, Ye Ye</div>
-    <div class="periodical"><em>The 12th IEEE International Conference on Healthcare Informatics 2024.</em></div>
+    <div class="periodical"><em>The 12th IEEE International Conference on Healthcare Informatics 2024 (Best Paper Award).</em></div>
     <div class="links">
       <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
       <a href="https://arxiv.org/pdf/2402.01987.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
