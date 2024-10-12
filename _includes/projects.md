@@ -31,10 +31,10 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/OTL.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICHI</abbr>
-  </div>
+  </div> -->
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2402.01987.pdf">Online Transfer Learning for RSV Case Detection</a></div>
@@ -56,10 +56,10 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/application.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">arXiv</abbr>
-  </div>
+  </div> -->
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2310.08459">A Survey of Heterogeneous Transfer Learning</a></div>
@@ -81,10 +81,10 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/icecube.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">NeurIPS workshop</abbr>
-  </div>
+  </div> -->
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_131.pdf" target="_blank">Score-based Graph Generative Model for Neutrino Events Classification and Reconstruction</a></div>
