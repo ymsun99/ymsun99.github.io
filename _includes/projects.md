@@ -37,7 +37,7 @@
   </div> -->
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2402.01987.pdf">Online Transfer Learning for RSV Case Detection</a></div>
+    <div class="title"><a href="https://www.computer.org/csdl/proceedings-article/ichi/2024/837300a512/1ZCgTN7u8bm">Online Transfer Learning for RSV Case Detection</a></div>
     <div class="author"><strong>Yiming Sun</strong>, Yuhe Gao, Runxue Bao, Gregory F Cooper, Jessi Espino, Harry Hochheiser, Marian G Michaels, John M Aronis, Ye Ye</div>
     <div class="periodical"><em>The 12th IEEE International Conference on Healthcare Informatics 2024 (Best Paper Award).</em></div>
     <div class="links">
