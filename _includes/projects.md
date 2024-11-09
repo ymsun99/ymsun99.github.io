@@ -37,6 +37,30 @@
   </div> -->
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openreview.net/pdf?id=GyiIAIcOUC">Scaling Generative Tabular Learning for Large Language Models</a></div>
+    <div class="author"><strong>Yiming Sun</strong>, Xumeng Wen, Shun Zheng, Xiaowei Jia, Jiang Bian</div>
+    <div class="periodical"><em>NeurIPS 2024 Third Table Representation Learning Workshop.</em></div>
+    <div class="links">
+      <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
+      <a href="https://openreview.net/pdf?id=GyiIAIcOUC" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://github.com/ymsun99/Heterogeneous-Transfer-Learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a> -->
+      <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
+      <!-- <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
+      <!-- <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/OTL.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICHI</abbr>
+  </div> -->
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.computer.org/csdl/proceedings-article/ichi/2024/837300a512/1ZCgTN7u8bm">Online Transfer Learning for RSV Case Detection</a></div>
     <div class="author"><strong>Yiming Sun</strong>, Yuhe Gao, Runxue Bao, Gregory F Cooper, Jessi Espino, Harry Hochheiser, Marian G Michaels, John M Aronis, Ye Ye</div>
     <div class="periodical"><em>The 12th IEEE International Conference on Healthcare Informatics 2024 (Best Paper Award).</em></div>
