@@ -37,6 +37,22 @@
   </div> -->
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Domain-Adaptive Continual Meta-Learning for Modeling Dynamical Systems: An Application in Environmental Ecosystems</a></div>
+    <div class="author"><strong>Yiming Sun</strong>, Runlong Yu, Runxue Bao, Yiqun Xie, Ye Ye, Xiaowei Jia</div>
+    <div class="periodical"><em>SIAM International Conference on Data Mining (SDM), accepted, to be published.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/OTL.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICHI</abbr>
+  </div> -->
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://openreview.net/pdf?id=GyiIAIcOUC">Scaling Generative Tabular Learning for Large Language Models</a></div>
     <div class="author"><strong>Yiming Sun</strong>, Xumeng Wen, Shun Zheng, Xiaowei Jia, Jiang Bian</div>
     <div class="periodical"><em>NeurIPS 2024 Third Table Representation Learning Workshop.</em></div>
