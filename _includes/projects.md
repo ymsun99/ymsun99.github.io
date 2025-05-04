@@ -30,16 +30,13 @@
 
 <li>
 <div class="pub-row">
-
-  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/OTL.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICHI</abbr>
-  </div> -->
-
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Domain-Adaptive Continual Meta-Learning for Modeling Dynamical Systems: An Application in Environmental Ecosystems</div>
+    <div class="title"><a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611978520.29">Domain-Adaptive Continual Meta-Learning for Modeling Dynamical Systems: An Application in Environmental Ecosystems</a></div>
     <div class="author"><strong>Yiming Sun</strong>, Runlong Yu, Runxue Bao, Yiqun Xie, Ye Ye, Xiaowei Jia</div>
-    <div class="periodical"><em>SIAM International Conference on Data Mining (SDM), accepted, to be published.</em></div>
+    <div class="periodical"><em>SIAM International Conference on Data Mining (SDM) 2025.</em></div>
+    <div class="links">
+      <a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611978520.29" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
   </div>
 </div>
 </li>
@@ -79,7 +76,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.computer.org/csdl/proceedings-article/ichi/2024/837300a512/1ZCgTN7u8bm">Online Transfer Learning for RSV Case Detection</a></div>
     <div class="author"><strong>Yiming Sun</strong>, Yuhe Gao, Runxue Bao, Gregory F Cooper, Jessi Espino, Harry Hochheiser, Marian G Michaels, John M Aronis, Ye Ye</div>
-    <div class="periodical"><em>The 12th IEEE International Conference on Healthcare Informatics 2024 (Best Paper Award).</em></div>
+    <div class="periodical"><em>The 12th IEEE International Conference on Healthcare Informatics 2024 (<strong>Best Paper Award</strong>).</em></div>
     <div class="links">
       <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
       <a href="https://arxiv.org/pdf/2402.01987.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -102,8 +99,8 @@
   </div> -->
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2310.08459">A Survey of Heterogeneous Transfer Learning</a></div>
-    <div class="author"><strong>Yiming Sun</strong>*, Runxue Bao*, Yuhe Gao, Jindong Wang, Qiang Yang, Zhi-Hong Mao, Ye Ye</div>
+    <div class="title"><a href="https://arxiv.org/abs/2310.08459">A Recent Survey of Heterogeneous Transfer Learning</a></div>
+    <div class="author">Runxue Bao*, <strong>Yiming Sun</strong>*, Yuhe Gao, Jindong Wang, Qiang Yang, Zhi-Hong Mao, Ye Ye</div>
     <div class="periodical"><em>arXiv, Oct 2023.</em></div>
     <div class="links">
       <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
