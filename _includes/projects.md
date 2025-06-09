@@ -31,7 +31,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611978520.29">X-MethaneWet: A Cross-scale Global Wetland Methane Emission Benchmark Dataset for Advancing Science Discovery with AI</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2505.18355">X-MethaneWet: A Cross-scale Global Wetland Methane Emission Benchmark Dataset for Advancing Science Discovery with AI</a></div>
     <div class="author"><strong>Yiming Sun</strong>, Shuo Chen, Shengyu Chen, Chonghao Qiu, Licheng Liu, Youmi Oh, Sparkle L Malone, Gavin McNicol, Qianlai Zhuang, Chris Smith, Yiqun Xie, Xiaowei Jia</div>
     <div class="periodical"><em>arXiv.</em></div>
     <div class="links">
