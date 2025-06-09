@@ -31,6 +31,19 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611978520.29">X-MethaneWet: A Cross-scale Global Wetland Methane Emission Benchmark Dataset for Advancing Science Discovery with AI</a></div>
+    <div class="author"><strong>Yiming Sun</strong>, Shuo Chen, Shengyu Chen, Chonghao Qiu, Licheng Liu, Youmi Oh, Sparkle L Malone, Gavin McNicol, Qianlai Zhuang, Chris Smith, Yiqun Xie, Xiaowei Jia</div>
+    <div class="periodical"><em>arXiv.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2505.18355" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://epubs.siam.org/doi/pdf/10.1137/1.9781611978520.29">Domain-Adaptive Continual Meta-Learning for Modeling Dynamical Systems: An Application in Environmental Ecosystems</a></div>
     <div class="author"><strong>Yiming Sun</strong>, Runlong Yu, Runxue Bao, Yiqun Xie, Ye Ye, Xiaowei Jia</div>
     <div class="periodical"><em>SIAM International Conference on Data Mining (SDM) 2025.</em></div>
@@ -101,7 +114,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2310.08459">A Recent Survey of Heterogeneous Transfer Learning</a></div>
     <div class="author">Runxue Bao*, <strong>Yiming Sun</strong>*, Yuhe Gao, Jindong Wang, Qiang Yang, Zhi-Hong Mao, Ye Ye</div>
-    <div class="periodical"><em>arXiv, Oct 2023.</em></div>
+    <div class="periodical"><em>arXiv.</em></div>
     <div class="links">
       <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
       <a href="https://arxiv.org/pdf/2310.08459" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>

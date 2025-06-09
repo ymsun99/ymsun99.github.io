@@ -8,6 +8,7 @@ layout: homepage
 I am currently pursuing my Ph.D. in Computer Engineering at the University of Pittsburgh, advised by Dr. <a href="https://sites.pitt.edu/~xiaowei/" target="_blank">Xiaowei Jia</a>.  Before embarking on my Ph.D. journey, I earned my honors bachelor's degree in Computer Science and Technology from the University of Science and Technology of China in 2022.
 
 <h2 id="news">News</h2>
+[05/25] One paper on **methane dataset and benchmark** was on arXiv! \
 [05/25] Starting a **research internship at NEC Laboratories America** focused on event-based financial time series modeling! \
 [12/24] One paper on domain-adaptive continual meta-learning was accepted by **SIAM International Conference on Data Mining (SDM) 2025**! \
 [10/24] One paper on scaling tabular learning for LLMs was accepted by **Table Representation Learning Workshop @ NeurIPS 2024**! \
