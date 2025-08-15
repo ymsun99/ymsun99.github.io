@@ -36,6 +36,8 @@
     <div class="periodical"><em>arXiv.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2505.18355" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/ymsun99/X-MethaneWet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">code</a>
+      <a href="https://huggingface.co/datasets/ymsun99/X-MethaneWet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">data</a>
     </div>
   </div>
 </div>
