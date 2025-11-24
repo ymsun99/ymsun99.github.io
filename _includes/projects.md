@@ -33,7 +33,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2505.18355">X-MethaneWet: A Cross-scale Global Wetland Methane Emission Benchmark Dataset for Advancing Science Discovery with AI</a></div>
     <div class="author"><strong>Yiming Sun</strong>, Shuo Chen, Shengyu Chen, Chonghao Qiu, Licheng Liu, Youmi Oh, Sparkle L Malone, Gavin McNicol, Qianlai Zhuang, Chris Smith, Yiqun Xie, Xiaowei Jia</div>
-    <div class="periodical"><em>arXiv.</em></div>
+    <div class="periodical"><em>KDD 2026 Datasets & Benchmarks Track.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2505.18355" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/ymsun99/X-MethaneWet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">code</a>
