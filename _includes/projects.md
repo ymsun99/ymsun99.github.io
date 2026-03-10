@@ -31,6 +31,32 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2603.03531">Role-Aware Conditional Inference for Spatiotemporal Ecosystem Carbon Flux Prediction</a></div>
+    <div class="author"><strong>Yiming Sun</strong>, Runlong Yu, Rongchao Dong, Shuo Chen, Licheng Liu, Youmi Oh, Qianlai Zhuang, Yiqun Xie, Xiaowei Jia</div>
+    <div class="periodical"><em>arXiv preprint arXiv:2603.03531.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2603.03531" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2603.07305">Retrieval-Augmented Multi-scale Framework for County-Level Crop Yield Prediction Across Large Regions</a></div>
+    <div class="author"><strong>Yiming Sun</strong>, Qi Cheng, Licheng Liu, Runlong Yu, Yiqun Xie, Xiaowei Jia</div>
+    <div class="periodical"><em>arXiv preprint arXiv:2603.07305.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2603.07305" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2505.18355">X-MethaneWet: A Cross-scale Global Wetland Methane Emission Benchmark Dataset for Advancing Science Discovery with AI</a></div>
     <div class="author"><strong>Yiming Sun</strong>, Shuo Chen, Shengyu Chen, Chonghao Qiu, Licheng Liu, Youmi Oh, Sparkle L Malone, Gavin McNicol, Qianlai Zhuang, Chris Smith, Yiqun Xie, Xiaowei Jia</div>
     <div class="periodical"><em>KDD 2026 Datasets & Benchmarks Track.</em></div>
