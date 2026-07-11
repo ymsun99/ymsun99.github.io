@@ -8,6 +8,7 @@ layout: homepage
 I am currently pursuing my Ph.D. in Computer Engineering at the University of Pittsburgh, advised by Dr. <a href="https://sites.pitt.edu/~xiaowei/" target="_blank">Xiaowei Jia</a>.  Before embarking on my Ph.D. journey, I earned my honors bachelor's degree in Computer Science and Technology from the University of Science and Technology of China in 2022.
 
 <h2 id="news">News</h2>
+[07/26] One survey paper on Heterogeneous Transfer Learning was accepted by **Knowledge-Based Systems**! \
 [11/25] One paper on **methane dataset and benchmark** was accepted by **KDD 2026 Datasets & Benchmarks Track**! \
 [05/25] Starting a **research internship at NEC Laboratories America** focused on event-based financial time series modeling! \
 [12/24] One paper on domain-adaptive continual meta-learning was accepted by **SIAM International Conference on Data Mining (SDM) 2025**! \
@@ -15,6 +16,5 @@ I am currently pursuing my Ph.D. in Computer Engineering at the University of Pi
 [06/24] One paper on Online Transfer Learning received **ICHI 2024 Best Paper Award (Analytics Track)**! \
 [05/24] Starting a **research internship at Microsoft Research Asia** focused on tabular learning for Large Language Models! \
 [03/24] One paper on Online Transfer Learning was accepted by **IEEE ICHI 2024**! \
-[10/23] One survey paper on Heterogeneous Transfer Learning was on arXiv!
 
 {% include_relative _includes/projects.md %}

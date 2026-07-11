@@ -140,12 +140,12 @@
   </div> -->
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2310.08459">A Recent Survey of Heterogeneous Transfer Learning</a></div>
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705126013031">A Recent Survey of Heterogeneous Transfer Learning</a></div>
     <div class="author">Runxue Bao*, <strong>Yiming Sun</strong>*, Yuhe Gao, Jindong Wang, Qiang Yang, Zhi-Hong Mao, Ye Ye</div>
-    <div class="periodical"><em>arXiv.</em></div>
+    <div class="periodical"><em>Knowledge-Based Systems.</em></div>
     <div class="links">
       <!-- <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a> -->
-      <a href="https://arxiv.org/pdf/2310.08459" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705126013031" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/ymsun99/Heterogeneous-Transfer-Learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
       <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
       <!-- <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a> -->
