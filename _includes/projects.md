@@ -46,9 +46,35 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2603.07305">Retrieval-Augmented Multi-scale Framework for County-Level Crop Yield Prediction Across Large Regions</a></div>
     <div class="author"><strong>Yiming Sun</strong>, Qi Cheng, Licheng Liu, Runlong Yu, Yiqun Xie, Xiaowei Jia</div>
-    <div class="periodical"><em>arXiv preprint arXiv:2603.07305.</em></div>
+    <div class="periodical"><em>SIAM International Conference on Data Mining (SDM).</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2603.07305" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2604.17149">FlowRefiner: Flow Matching-Based Iterative Refinement for 3D Turbulent Flow Simulation</a></div>
+    <div class="author">Yilong Dai, <strong>Yiming Sun</strong>, Yiheng Chen, Shengyu Chen, Xiaowei Jia, Runlong Yu</div>
+    <div class="periodical"><em>SIAM International Conference on Data Mining (SDM).</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2604.17149" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2606.00338">CHAM-net: A Contrastive Hierarchical Adaptive Meta-network for Robust Global Methane Flux Prediction</a></div>
+    <div class="author">Rongchao Dong, <strong>Yiming Sun</strong>, Shuo Chen, Youmi Oh, Licheng Liu, Yiqun Xie, Xiaowei Jia</div>
+    <div class="periodical"><em>IJCAI-ECAI AI and Social Good Track.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2606.00338" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
