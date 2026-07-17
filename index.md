@@ -11,12 +11,6 @@ I am currently pursuing my Ph.D. in Computer Engineering at the University of Pi
 [07/26] Two papers were accepted by **SIAM International Conference on Data Mining (SDM)**! \
 [07/26] One survey paper on Heterogeneous Transfer Learning was accepted by **Knowledge-Based Systems**! \
 [04/26] One paper on methane flux prediction was accepted by **IJCAI-ECAI AI and Social Good Track**! \
-[11/25] One paper on **methane dataset and benchmark** was accepted by **KDD 2026 Datasets & Benchmarks Track**! \
-[05/25] Starting a **research internship at NEC Laboratories America** focused on event-based financial time series modeling! \
-[12/24] One paper on domain-adaptive continual meta-learning was accepted by **SIAM International Conference on Data Mining (SDM) 2025**! \
-[10/24] One paper on scaling tabular learning for LLMs was accepted by **Table Representation Learning Workshop @ NeurIPS 2024**! \
-[06/24] One paper on Online Transfer Learning received **ICHI 2024 Best Paper Award (Analytics Track)**! \
-[05/24] Starting a **research internship at Microsoft Research Asia** focused on tabular learning for Large Language Models! \
-[03/24] One paper on Online Transfer Learning was accepted by **IEEE ICHI 2024**! \
+[11/25] One paper on **methane dataset and benchmark** was accepted by **KDD 2026 Datasets & Benchmarks Track**! 
 
 {% include_relative _includes/projects.md %}
