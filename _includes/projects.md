@@ -44,6 +44,19 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href=>Quantifying Event Impacts on Time Series via Multiscale Contrastive Learning</a></div>
+    <div class="author"><strong>Yiming Sun</strong>, Shengyu Chen, Zhengzhang Chen, Haoyu Wang, Xiaowei Jia, Haifeng Chen</div>
+    <div class="periodical"><em>ACM International Conference on Information and Knowledge Management (CIKM).</em></div>
+    <div class="links">
+      <a href= class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2603.07305">Retrieval-Augmented Multi-scale Framework for County-Level Crop Yield Prediction Across Large Regions</a></div>
     <div class="author"><strong>Yiming Sun</strong>, Qi Cheng, Licheng Liu, Runlong Yu, Yiqun Xie, Xiaowei Jia</div>
     <div class="periodical"><em>SIAM International Conference on Data Mining (SDM).</em></div>
