@@ -41,7 +41,7 @@
 </div>
 </li>
 
-<li>
+<!-- <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href=>Quantifying Event Impacts on Time Series via Multiscale Contrastive Learning</a></div>
@@ -52,7 +52,7 @@
     </div>
   </div>
 </div>
-</li>
+</li> -->
 
 <li>
 <div class="pub-row">
